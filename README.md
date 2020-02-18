@@ -1,3 +1,5 @@
+## There's an updated version of this for later versions of Visual Studio [here](https://github.com/Dave-Lowndes/DavesVisualStudioVisualizers/tree/master/CppCustomVisualizer)
+
 # DavesEEAddin
 An extended version of the Microsoft Visual Studio debugger sample expression evaluator EEAddin. It currently supports the following Windows types:
 
